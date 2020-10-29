@@ -22,7 +22,7 @@ Este repositório tem por objetivo abrigar os documentos de engenharia de requis
 |     Membro         |Matrícula | Github |
 |--------------------|----------|--------|
 | Rafaella Junqueira | 16/0142628 | [@RafaellaJunqueira](https://github.com/RafaellaJunqueira) |
-| Ingrid Soares | | [@ingrdst](https://github.com/ingrdst) |
+| Ingrid Soares | 16/0125162 | [@ingrdst](https://github.com/ingrdst) |
 | João Victor de Oliveira Matos| 17/0013987 |[@joao15victor08](https://github.com/joao15victor08)|
 
 ## Documentação
